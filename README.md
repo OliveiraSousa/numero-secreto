@@ -1,1 +1,1 @@
-https://OliveiraSousa.github.io/numero-secreto/
+https://oliveirasousa.github.io/numero-secreto/
